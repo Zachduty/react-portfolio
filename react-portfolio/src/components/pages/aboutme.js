@@ -36,16 +36,16 @@ function About() {
                             <h4>Languages</h4>
                                         <h4 class="subheading">Frontend? Back end? Full-Stack</h4>
                                         <p class="text-muted">From the basics like HTML5 and CSS to libraries like Bootstrap and Materialize.
-                                        From JavaScript to nodeJS and jQuery. </p>
+                                        From JavaScript to nodeJS and jQuery. MVC to OOP and SQL to MongoDB, 
+                                        I've learned about a lot and if I don't know it, I will learn it and figure it out.</p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <h4>Get paid on time</h4>
-                                        <h4 class="subheading">All projects include GetLance Payment Protection — helping ensure that you get paid for all work successfully completed through the freelancing website.</h4>
-                                        <p class="text-muted">All invoices and payments happen through GetLance. Count on a simple and streamlined process.
-                                            Hourly and fixed-price projects. For hourly work, submit timesheets through GetLance. For fixed-price jobs, set milestones and funds are released via GetLance escrow features.
-                                            Multiple payment options. Choose a payment method that works best for you, from direct deposit or PayPal to wire transfer and more.</p>
+                            <h4>React</h4>
+                                        <h4 class="subheading">Old and new</h4>
+                                        <p class="text-muted">Familiar with both styles, old and new. Whatever version of you site uses or whatever way you use React, 
+                                        I can work with. Currently learning Angular and Vue!</p>
                         </div>
                         <div class="col-md-6 how-img">
                             <img src="/images/react.png" class="rounded-circle img-fluid" alt=""/>

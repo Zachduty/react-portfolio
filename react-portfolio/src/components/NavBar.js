@@ -7,7 +7,7 @@ function NavBar() {
   const location = useLocation();
 
   return (
-    <nav>
+    <nav class="col md-6">
       <div>
         <img className="self" src="/images/self.jpeg" />
       </div>
